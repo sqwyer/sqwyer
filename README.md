@@ -6,4 +6,3 @@
 
 *[I ❤ Open Source]*
 
-[![Spotify](novatorem-8q8cw85hf.vercel.app/api/spotify)](https://open.spotify.com/user/xow5mtuwdo31scpr9w504yw15)
