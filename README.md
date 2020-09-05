@@ -6,4 +6,5 @@
 
 *[I ❤ Open Source]*
 
-[![Spotify](https://USER_NAME.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://novatorem-topaz.vercel.app
+.vercel.app/api/spotify)](https://open.spotify.com/user/xow5mtuwdo31scpr9w504yw15)
