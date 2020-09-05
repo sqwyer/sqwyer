@@ -4,4 +4,4 @@
 
 🗣️ If you wish to contact me, I often use an app called [Discord](https://discord.com)! You can message me there, my tag is Sawy#6877, I'm open to collaborate on projects!
 
-I ❤ Open Source
+*[I ❤ Open Source]
