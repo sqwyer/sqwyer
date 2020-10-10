@@ -4,5 +4,7 @@
 
 🗣️ If you wish to contact me, I often use an app called [Discord](https://discord.com)! You can message me there, my tag is Sqwyer#2020, I'm open to collaborate on projects!
 
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sqwyer)](https://github-readme-stats.vercel.app/api?username=sqwyer)
+
 *[I ❤ Open Source]*
 
