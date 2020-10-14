@@ -13,4 +13,9 @@
 
 :globe_with_meridians: You can reach me on Discord, @Sqwyer#2020 (May Change)
 
+<br />
+<br />
+<br />
+<br />
+
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sqwyer)](https://github-readme-stats.vercel.app/api?username=sqwyer)
