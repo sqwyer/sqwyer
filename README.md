@@ -19,3 +19,7 @@
 <br />
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sqwyer)](https://github-readme-stats.vercel.app/api?username=sqwyer)
+
+<br />
+
+Check out my coding buddy as well! :wink: - [github.com/razod](https://github.com/razod)
