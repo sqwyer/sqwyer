@@ -1,4 +1,4 @@
-## Hello 👋 I'm Sawyer! <a><img align="right" width="500px" src="https://github.com/sqwyer/sqwyer/blob/master/octocat.png"></a> 
+## Hello 👋 I'm Sawyer! <a><img align="right" max-width="450px" src="https://github.com/sqwyer/sqwyer/blob/master/octocat.png"></a> 
 
 ### What I use to code
 :computer: I use NodeJS, TypeScript, & other frontend languages!
