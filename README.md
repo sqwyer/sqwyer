@@ -22,4 +22,4 @@
 
 <br />
 
-Check out my coding buddy as well! :wink: - [github.com/razod](https://github.com/razod)
+Really cool person who taught me how to code - [github.com/razod](https://github.com/razod)
