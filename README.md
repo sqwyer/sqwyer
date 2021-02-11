@@ -11,7 +11,7 @@
 - :heavy_check_mark: visit stackoverflow
 - :heavy_check_mark: contribute to open source
 
-:globe_with_meridians: You can reach me on Discord, @Sqwyer#2020 (May Change)
+:globe_with_meridians: You can reach me on Discord, @sawyer#1020 (May Change)
 
 <br />
 <br />
