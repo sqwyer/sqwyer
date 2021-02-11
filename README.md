@@ -11,9 +11,9 @@
 - :heavy_check_mark: visit stackoverflow
 - :heavy_check_mark: contribute to open source
 - :heavy_check_mark: learn random things
-- :heavy_check_mark: school
+- :heavy_check_mark: school projects
 
-:globe_with_meridians: You can reach me on Discord, <a href="#">@sawyer#1020</a> or via email <a href="#">sawyer.codes.stuff@gmail.com</a>
+:globe_with_meridians: You can reach me on Discord <a href="#">@sawyer#1020</a> or via email <a href="#">sawyer.codes.stuff@gmail.com</a>
 
 <br />
 <br />
