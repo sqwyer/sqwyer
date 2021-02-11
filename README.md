@@ -3,7 +3,7 @@
 ### What I use to code
 :computer: I use NodeJS, TypeScript, & other frontend languages!
 
-:hammer_and_wrench: Git, GitHub, Visual Studio Code, Atom, Discord.
+:hammer_and_wrench: Git, GitHub, Visual Studio Code, Discord.
 
 ### What I do
 - :heavy_check_mark: create random node projects
