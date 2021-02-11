@@ -1,4 +1,4 @@
-## Hello 👋 I'm Sawyer! <a><img align="right" width="450px" src="https://github.com/sqwyer/sqwyer/blob/master/octocat.png"></a> 
+## Hello 👋 I'm Sawyer!
 
 ### What I use to code
 :computer: I use NodeJS, TypeScript, & other frontend languages!
@@ -17,8 +17,6 @@
 <br />
 <br />
 <br />
-
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sqwyer)](https://github-readme-stats.vercel.app/api?username=sqwyer)
 
 <br />
 
