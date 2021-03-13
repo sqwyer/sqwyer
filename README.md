@@ -1,25 +1,14 @@
-## Hello 👋 I'm Sawyer!
+## 👋 I'm Sawyer!
 
 ### What I use to code
-:computer: I use NodeJS, TypeScript, & other frontend languages!
+:computer: I'm fluent with JavaScript/TypeScript/Node and wanting to learn C# with Unity.
 
-:hammer_and_wrench: Git, GitHub, Visual Studio Code, Discord.
+:hammer_and_wrench: I use Visual Studio, Glitch, and GitHub.
 
 ### What I do
-- :heavy_check_mark: create random node projects
-- :heavy_check_mark: get errors in my code
-- :heavy_check_mark: visit stackoverflow
-- :heavy_check_mark: contribute to open source
-- :heavy_check_mark: learn random things
-- :heavy_check_mark: school projects
+- ✔️ Make random (typically useless) projects
+- ✔️ Learn stuff
+- ✔️ Get bugs in my code
+- ✔️ Use Stack Overflow
 
 :globe_with_meridians: You can reach me on Discord <a href="#">@sawyer#1020</a> or via email <a href="#">sawyer.codes.stuff@gmail.com</a>
-
-<br />
-<br />
-<br />
-<br />
-
-<br />
-
-Really cool person who taught me how to code - [github.com/razod](https://github.com/razod)
