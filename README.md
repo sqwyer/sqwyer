@@ -12,3 +12,5 @@
 - ✔️ Use Stack Overflow
 
 :globe_with_meridians: You can reach me on Discord <a href="#">@sawyer#1020</a> or via email <a href="#">sawyer.codes.stuff@gmail.com</a>
+
+I need ideas for stuff so reach out if you have any ^-^
