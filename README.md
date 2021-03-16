@@ -1,4 +1,4 @@
-## 👋ㅤ I'm Sawyer!
+## 👋ㅤI'm Sawyer!
 
 ### What I use to code
 :computer:ㅤI'm fluent with JavaScript/TypeScript/Node and wanting to learn C# with Unity.
