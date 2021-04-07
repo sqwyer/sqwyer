@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/sqwyer/sqwyer/master/Screen%20Shot%202021-04-06%20at%207.56.56%20PM.png" />
+
 ## 👋ㅤI'm Sawyer!
 
 ### What I use to code
