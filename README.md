@@ -1,4 +1,4 @@
-
+<img src="main.svg" width="100%">
 
 ## 👋ㅤI'm Sawyer!
 
