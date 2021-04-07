@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/sqwyer/sqwyer/master/Screen%20Shot%202021-04-06%20at%207.56.56%20PM.png" />
+<img src="https://raw.githubusercontent.com/sqwyer/sqwyer/master/Screen%20Shot%202021-04-07%20at%205.24.50%20PM.png" style="width:100%;position:absolute;height:auto;"/>
 
 ## 👋ㅤI'm Sawyer!
 
