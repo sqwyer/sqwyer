@@ -1,5 +1,7 @@
 ## 👋ㅤI'm Sawyer!
-I'm a high schooler who likes to code random things. I use Node a lot and am trying to to learn NextJS.
+I'm a high schooler who likes to code random things.
+
+I use Node a lot and currently trying to to learn NextJS.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sqwyer&theme=default)
 
