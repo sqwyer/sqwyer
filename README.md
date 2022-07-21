@@ -1,7 +1,7 @@
 <div align="center">
 <h1>👋ㅤI'm Sawyer!</h1>
-<p>I'm a high schooler who likes to code random things.</p>
-<p>I use Node a lot and currently trying to to learn NextJS.</p>
+<p>I'm a high schooler who likes to code random things!</p>
+<p>I like to use use Node, Typescript, and Sass a lot and I'm currently trying to to learn NextJS!</p>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sqwyer&theme=default" alt="Top Languages" />
 
